@@ -5,6 +5,7 @@ go 1.26.1
 require (
 	github.com/gin-contrib/cache v1.4.4
 	github.com/gin-gonic/gin v1.12.0
+	github.com/gorilla/websocket v1.5.3
 	modernc.org/sqlite v1.49.1
 )
 
